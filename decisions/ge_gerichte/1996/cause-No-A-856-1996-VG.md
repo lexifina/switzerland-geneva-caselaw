@@ -1,0 +1,35 @@
+---
+decision_id: "ge_gerichte_cause_No_A_856_1996_-_VG"
+court: "GE Gerichte"
+court_id: "ge_gerichte"
+docket: "cause No A/856/1996 - VG"
+decided: "1996-08-28"
+language: "fr"
+source_url: "https://justice.ge.ch/apps/decis/fr/ata/show/1880752?doc="
+---
+
+# GE Gerichte cause No A/856/1996 - VG
+
+## Regeste
+
+FONCTIONNAIRE ET EMPLOYE; FONCTIONNAIRE; COMMUNE; PROPORTIONNALITE; SANCTION ADMINISTRATIVE; SUSPENSION TEMPORAIRE D'EMPLOI; SUSPENSION DANS LA PROFESSION | L'autorité hiérarchique ne peut, sans violer le principe de la proportionnalité, infliger une suspension temporaire d'activité à un fonctionnaire, puis lever cette sanction et, pour les mêmes faits, prendre une décision définitive après enquête qu'entraîne notamment la mise à pied pour cinq jours, lesquels doivent être imputés sur les 12 jours de suspension précédemment prononcés. Cette suspension apparaît disproportionnée dès lors qu'elle excède les cinq jours de mise à pied. | LAC.85
+
+## Text
+
+Genève Cour de justice (Cour de droit public) Chambre administrative 28.08.1996 cause No A/856/1996 - VG
+
+FONCTIONNAIRE ET EMPLOYE; FONCTIONNAIRE; COMMUNE; PROPORTIONNALITE; SANCTION ADMINISTRATIVE; SUSPENSION TEMPORAIRE D'EMPLOI; SUSPENSION DANS LA PROFESSION | L'autorité hiérarchique ne peut, sans violer le principe de la proportionnalité, infliger une suspension temporaire d'activité à un fonctionnaire, puis lever cette sanction et, pour les mêmes faits, prendre une décision définitive après enquête qu'entraîne notamment la mise à pied pour cinq jours, lesquels doivent être imputés sur les 12 jours de suspension précédemment prononcés. Cette suspension apparaît disproportionnée dès lors qu'elle excède les cinq jours de mise à pied. | LAC.85
+
+cause No A/856/1996 - VG
+[pjdoc 10245]
+du 28.08.1996
+Descripteurs
+:
+FONCTIONNAIRE ET EMPLOYE; FONCTIONNAIRE; COMMUNE; PROPORTIONNALITE; SANCTION ADMINISTRATIVE; SUSPENSION TEMPORAIRE D'EMPLOI; SUSPENSION DANS LA PROFESSION
+Normes
+:
+LAC.85
+Résumé
+:
+L'autorité hiérarchique ne peut, sans violer le principe de la proportionnalité, infliger une suspension temporaire d'activité à un fonctionnaire, puis lever cette sanction et, pour les mêmes faits, prendre une décision définitive après enquête qu'entraîne notamment la mise à pied pour cinq jours, lesquels doivent être imputés sur les 12 jours de suspension précédemment prononcés. Cette suspension apparaît disproportionnée dès lors qu'elle excède les cinq jours de mise à pied.
+Pas de document HTML
