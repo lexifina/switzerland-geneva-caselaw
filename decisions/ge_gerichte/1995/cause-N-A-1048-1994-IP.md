@@ -1,0 +1,36 @@
+---
+decision_id: "ge_gerichte_cause_N__A_1048_1994_-_IP"
+court: "GE Gerichte"
+court_id: "ge_gerichte"
+docket: "cause N° A/1048/1994 - IP"
+decided: "1995-06-20"
+language: "fr"
+source_url: "https://justice.ge.ch/apps/decis/fr/ata/show/1880119?doc="
+cites_law: ["switzerland/bund/acts/101/art-004.md"]
+---
+
+# GE Gerichte cause N° A/1048/1994 - IP
+
+## Regeste
+
+BOURSE D'ETUDES; ETUDIANT; CONJOINT; RESSORTISSANT ETRANGER; DOMICILE; EGALITE DE TRAITEMENT; NORME; EXAMEN PREJUDICIEL | "La LEE peut, sans violer l'art.4 CST FED., poser des conditions plus strictes pour l'étudiant étranger marié, dont le répondant n'est pas domicilié et contribuable en Suisse et dans le canton, de telle façon qu'il ne doit pas avoir été en formation pendant les deux années précédant sa demande d'aide, que pour l'étudiant étranger ou confédéré dont lui-même ou son répondant remplissent les conditions de domicile de l'art.14 litt.b et d LEE. En effet, si l'étudiant étranger marié est en formation durant cette période de deux ans, il pourra ne pas avoir contribué du tout dans le canton avant de demander une aide de l'Etat.Il n'apparaît ainsi pas déraisonnable de prévoir des exigences supplémentaires pour celui qui, étranger, est domicilié dans le canton après l'âge de 20 ans et désire, comme le recourant, y entreprendre rapidement des études. La question peut rester ouverte de savoir si l'étudiant étranger marié, domicilié à Genève après l'âge de 20 ans et qui demande une aide après un long séjour dans le canton où il a été contribuable, ne devrait pas être traité de la même manière que l'étudiant étranger dont le répondant est domicilié et contribuable en Suisse depuis 5 ans, dont les deux derniers passés sans interruption dans le canton (art.14 litt.d LEE).Il est ainsi légitime d'opérer une distinction basée sur le critère du domicile, tel que l'a prévue la LEE à son art.14 litt.e LEE.En outre, ne constitue pas non plus une inégalité de traitement le fait de prévoir que l'étudiant genevois, l'étudiant confédéré orphelin et l'étudiant dont lui-même ou son répondant a le statut de réfugié (art.10 litt.a, e, j et k LEE), n'ont pas, s'ils sont mariés, à répondre aux conditions posées par l'art. 19 al.1 LEE. Le législateur pouvait considérer que l'étudiant genevois a, de par le lien particulier qui le lie au canton, la possibilité de bénéficier sans autre condition que celle du chapitre IV LEE, d'une aide de l'Etat. En outre, la situation de l'étudiant confédéré orphelin ou de l'étudiant réfugié ne peut, de par sa particularité, être comparée à celle d'un autre étudiant." | LEE.19 al.1 litt.a
+
+## Text
+
+Genève Cour de justice (Cour de droit public) Chambre administrative 20.06.1995 cause N° A/1048/1994 - IP
+
+BOURSE D'ETUDES; ETUDIANT; CONJOINT; RESSORTISSANT ETRANGER; DOMICILE; EGALITE DE TRAITEMENT; NORME; EXAMEN PREJUDICIEL | "La LEE peut, sans violer l'art.4 CST FED., poser des conditions plus strictes pour l'étudiant étranger marié, dont le répondant n'est pas domicilié et contribuable en Suisse et dans le canton, de telle façon qu'il ne doit pas avoir été en formation pendant les deux années précédant sa demande d'aide, que pour l'étudiant étranger ou confédéré dont lui-même ou son répondant remplissent les conditions de domicile de l'art.14 litt.b et d LEE. En effet, si l'étudiant étranger marié est en formation durant cette période de deux ans, il pourra ne pas avoir contribué du tout dans le canton avant de demander une aide de l'Etat.Il n'apparaît ainsi pas déraisonnable de prévoir des exigences supplémentaires pour celui qui, étranger, est domicilié dans le canton après l'âge de 20 ans et désire, comme le recourant, y entreprendre rapidement des études. La question peut rester ouverte de savoir si l'étudiant étranger marié, domicilié à Genève après l'âge de 20 ans et qui demande une aide après un long séjour dans le canton où il a été contribuable, ne devrait pas être traité de la même manière que l'étudiant étranger dont le répondant est domicilié et contribuable en Suisse depuis 5 ans, dont les deux derniers passés sans interruption dans le canton (art.14 litt.d LEE).Il est ainsi légitime d'opérer une distinction basée sur le critère du domicile, tel que l'a prévue la LEE à son art.14 litt.e LEE.En outre, ne constitue pas non plus une inégalité de traitement le fait de prévoir que l'étudiant genevois, l'étudiant confédéré orphelin et l'étudiant dont lui-même ou son répondant a le statut de réfugié (art.10 litt.a, e, j et k LEE), n'ont pas, s'ils sont mariés, à répondre aux conditions posées par l'art. 19 al.1 LEE. Le législateur pouvait considérer que l'étudiant genevois a, de par le lien particulier qui le lie au canton, la possibilité de bénéficier sans autre condition que celle du chapitre IV LEE, d'une aide de l'Etat. En outre, la situation de l'étudiant confédéré orphelin ou de l'étudiant réfugié ne peut, de par sa particularité, être comparée à celle d'un autre étudiant." | LEE.19 al.1 litt.a
+
+cause N° A/1048/1994 - IP
+[pjdoc 9285]
+du 20.06.1995
+Descripteurs
+:
+BOURSE D'ETUDES; ETUDIANT; CONJOINT; RESSORTISSANT ETRANGER; DOMICILE; EGALITE DE TRAITEMENT; NORME; EXAMEN PREJUDICIEL
+Normes
+:
+LEE.19 al.1 litt.a
+Résumé
+:
+"La LEE peut, sans violer l'art.4 CST FED., poser des conditions plus strictes pour l'étudiant étranger marié, dont le répondant n'est pas domicilié et contribuable en Suisse et dans le canton, de telle façon qu'il ne doit pas avoir été en formation pendant les deux années précédant sa demande d'aide, que pour l'étudiant étranger ou confédéré dont lui-même ou son répondant remplissent les conditions de domicile de l'art.14 litt.b et d LEE. En effet, si l'étudiant étranger marié est en formation durant cette période de deux ans, il pourra ne pas avoir contribué du tout dans le canton avant de demander une aide de l'Etat.Il n'apparaît ainsi pas déraisonnable de prévoir des exigences supplémentaires pour celui qui, étranger, est domicilié dans le canton après l'âge de 20 ans et désire, comme le recourant, y entreprendre rapidement des études. La question peut rester ouverte de savoir si l'étudiant étranger marié, domicilié à Genève après l'âge de 20 ans et qui demande une aide après un long séjour dans le canton où il a été contribuable, ne devrait pas être traité de la même manière que l'étudiant étranger dont le répondant est domicilié et contribuable en Suisse depuis 5 ans, dont les deux derniers passés sans interruption dans le canton (art.14 litt.d LEE).Il est ainsi légitime d'opérer une distinction basée sur le critère du domicile, tel que l'a prévue la LEE à son art.14 litt.e LEE.En outre, ne constitue pas non plus une inégalité de traitement le fait de prévoir que l'étudiant genevois, l'étudiant confédéré orphelin et l'étudiant dont lui-même ou son répondant a le statut de réfugié (art.10 litt.a, e, j et k LEE), n'ont pas, s'ils sont mariés, à répondre aux conditions posées par l'art. 19 al.1 LEE. Le législateur pouvait considérer que l'étudiant genevois a, de par le lien particulier qui le lie au canton, la possibilité de bénéficier sans autre condition que celle du chapitre IV LEE, d'une aide de l'Etat. En outre, la situation de l'étudiant confédéré orphelin ou de l'étudiant réfugié ne peut, de par sa particularité, être comparée à celle d'un autre étudiant."
+Pas de document HTML
