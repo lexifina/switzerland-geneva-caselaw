@@ -1,0 +1,32 @@
+---
+decision_id: "ge_gerichte_[pjdoc 9039]"
+court: "GE Gerichte"
+court_id: "ge_gerichte"
+docket: "[pjdoc 9039]"
+decided: "1995-02-10"
+language: "fr"
+source_url: "https://justice.ge.ch/apps/decis/fr/ata/show/1880438?doc="
+---
+
+# GE Gerichte [pjdoc 9039]
+
+## Regeste
+
+Résumé:
+ Elimination confirmée d'une étudiante qui avait échoué à trois reprises à un examen. Pas de situation exceptionnelle. Refus de revoir une note de la CRUNI, dans la mesure où elle ne disposait pas d'un pouvoir d'appréciation suffisant pour ce faire et que le professeur qui avait donné la note avait confirmé sa position de la manière la plus nette. Quant aux conclusions subsidiaire de la recourante visant à l'autorisation de pouvoir repasser un autre examen du même groupe, la CRUNI n'est pas entré en matière, dès lors que son pouvoir de décision ne pouvait porter que sur l'objet de la procédure, qui était circonscrit par la décision en cause : seules les questions tranchées par celle-ci rentrent dans la compétence de l'instance de recours (P. MOOR, Droit administratif, 1991, vol.II p.446). Relèvent de l'objet de la procédure les questions tranchées par la décision et celles qui, soulevées par une partie, auraient dues être tranchées.En recourant à la CRUNI, la recourante a saisi une instance dont la fonction est de contrôler. Or, seul peut être contrôlé ce qui a été préalablement décidé.
+
+## Text
+
+A/652/1994
+[pjdoc 9039]
+du 10.02.1995
+Descripteurs
+:
+ UNIVERSITE
+Normes
+:
+ RU.87
+Résumé
+:
+ Elimination confirmée d'une étudiante qui avait échoué à trois reprises à un examen. Pas de situation exceptionnelle. Refus de revoir une note de la CRUNI, dans la mesure où elle ne disposait pas d'un pouvoir d'appréciation suffisant pour ce faire et que le professeur qui avait donné la note avait confirmé sa position de la manière la plus nette. Quant aux conclusions subsidiaire de la recourante visant à l'autorisation de pouvoir repasser un autre examen du même groupe, la CRUNI n'est pas entré en matière, dès lors que son pouvoir de décision ne pouvait porter que sur l'objet de la procédure, qui était circonscrit par la décision en cause : seules les questions tranchées par celle-ci rentrent dans la compétence de l'instance de recours (P. MOOR, Droit administratif, 1991, vol.II p.446). Relèvent de l'objet de la procédure les questions tranchées par la décision et celles qui, soulevées par une partie, auraient dues être tranchées.En recourant à la CRUNI, la recourante a saisi une instance dont la fonction est de contrôler. Or, seul peut être contrôlé ce qui a été préalablement décidé.
+Pas de document HTML
